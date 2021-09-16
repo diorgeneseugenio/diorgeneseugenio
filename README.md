@@ -1,6 +1,7 @@
 <h1 align="center">Hello 🌍, I'm Diórgenes Eugênio</h1>
 <h3 align="center">Father since 2021, and passionate developer since 2014.</h3>
-<h3 align="center">"It's not a faith in technology. It's faith in people." Steve Jobs</h3>
+<h3 align="center">"Java is to JavaScript as ham is to hamster." –
+Jeremy Keith, 2009</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diorgeneseugenio&label=Profile%20views&color=0e75b6&style=flat" alt="diorgeneseugenio" /> </p>
 
