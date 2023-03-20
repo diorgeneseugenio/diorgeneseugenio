@@ -6,9 +6,9 @@ Jeremy Keith, 2009</h3>
 
 <h2>Summary</h2>
 
-  - 🔭 I’m currently working in [Nkey](https://www.nkey.com.br/)
+  - 🔭 I’m currently working at [Able](https://www.able.co)
 
-  - 🌱 I’m currently learning **Cloud Computing**
+  - 🌱 I’m currently learning **Software Architecture**
 
   - 📫 How to reach me **diorgeneseugenio@gmail.com**
 
@@ -17,7 +17,7 @@ Jeremy Keith, 2009</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eu_diorgenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eu_diorgenes" height="30" width="40" /></a>
+<a href="https://twitter.com/dioTheEngineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eu_diorgenes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diorgeneseugenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diorgeneseugenio" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4774623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4774623" height="30" width="40" /></a>
 <a href="https://instagram.com/diorgeneseugenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diorgeneseugenio" height="30" width="40" /></a>
