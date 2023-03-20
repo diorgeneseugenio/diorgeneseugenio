@@ -1,10 +1,9 @@
 <h1 align="center">Hello 🌍, I'm Diórgenes Eugênio</h1>
-
 <h3 align="center">Father since 2021, and passionate developer since 2014.</h3>
 <h3 align="center">"Java is to JavaScript as ham is to hamster." –
 Jeremy Keith, 2009</h3>
 
-<h2>Summary</h2>
+-----
 
   - 🔭 I’m currently working at [Able](https://www.able.co)
 
