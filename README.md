@@ -5,7 +5,7 @@ Jeremy Keith, 2009</h3>
 
 -----
 
-  - 🔭 I’m currently working at [Able](https://www.able.co)
+  - 🔭 I’m currently working at [Bluemetrics](https://www.bluemetrics.ai)
 
   - 🌱 I’m currently learning **Software Architecture**
 
